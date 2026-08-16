@@ -684,4 +684,4 @@ settingsBtn.onClick=sc(function() showSettings() end)
 
 if _G.mcqSyncUrl and _G.mcqSyncUrl~="" then syncOnlineMcqs(true) end
 
-ssd(AlertDialog.Builder(context).setTitle("MY MCQ TRAINER").setView(outerSV).setPositiveButton("EXIT",nil))
+ssd(AlertDialog.Builder(context).setTitle("MY MCQ version1.0").setView(outerSV).setPositiveButton("EXIT",nil))
